@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TVE2" tvg-logo="" group-title="IPTV",TVE2
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
