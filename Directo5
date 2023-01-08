@@ -1,3 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 5" tvg-logo="" group-title="MOVISTAR+",Directo 5
-http://loadbl2.online:8080/04954760/57939886/17718
+acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+
