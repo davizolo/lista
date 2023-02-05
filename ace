@@ -6,8 +6,6 @@ acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLigaTV FHD Multi", M+ LaLigaTV FHD Multi
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLigaTV HD", M+ LaLigaTV HD
-acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M+ Liga 2 FHD", M+ Liga 2 FHD
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
@@ -15,7 +13,7 @@ acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M+ Liga 2 HD", M+ Liga 2 HD
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga FHD Multi", DAZN LaLiga FHD Multi
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLigaHD FULL HD", DAZN LaLiga FHD Multi
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga FHD Multi", DAZN LaLiga FHD Multi
