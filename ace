@@ -117,23 +117,6 @@ acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="DAZN" tvg-id="DAZN F1 HD", DAZN F1 HD
 acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 1080", Evento del momento 1080
-acestream://5c19b80926aa6dd5ff6ff2ba086bf6caa39c56fa
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", Evento del momento 720
-acestream://172a0843a8f136659ab139af2d247bcfac602d05
-
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN", ESPN
-acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN 2", ESPN 2
-acestream://e40b29774fdfd953751a71f5695f647726623b9d
-
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN 3", ESPN 3
-acestream://b97f5975dbd067655432512d4693b417bc85a714
-
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN Extra", ESPN Extra
-acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="M+ Ellas #V", M+ Ellas #V
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
@@ -162,14 +145,6 @@ acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
 #EXTINF:-1 tvg-logo="https://fotografias-mega.atresmedia.com/clipping/cmsimages01/2022/07/06/F8E798E8-EDE7-413A-9D2E-AA779E299B2E/mega_27.jpg" group-title="TDT" tvg-id="Mega FHD", Mega FHD
 acestream://eca5dfd22ce7fc352205749f78ac2c1dff5b5a94
 
-#EXTINF:-1 tvg-logo="https://fotografias-mega.atresmedia.com/clipping/cmsimages01/2022/07/06/F8E798E8-EDE7-413A-9D2E-AA779E299B2E/mega_27.jpg" group-title="TDT" tvg-id="Mega HD", Mega HD
-http://46.21.250.55:8080/jorge/jorge/93241
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="TDT" tvg-id="Toros", Toros
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117206
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="NBA TV", NBA TV
-http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/245377
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc" group-title="Sport Tv" tvg-id="Sport Tv 1 FHD", Sport Tv 1 FHD
 acestream://c95422bc904378be0b035eba721d5e6a004f7d79
