@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 1" tvg-logo="" group-title="MOVISTAR+",Directo 1
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#M. Liga de campeones Fullhd Multi
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+##0
 
-#acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-M. Laliga
+
