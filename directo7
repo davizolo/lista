@@ -1,8 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 7" tvg-logo="" group-title="MOVISTAR+",Directo 7
-acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
-
-#M. Liga de campeones (720p)
-
-#acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #M. Liga de campeones (alternativa)
