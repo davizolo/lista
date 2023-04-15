@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="#Vamos" tvg-logo="" group-title="MOVISTAR+",#Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/5z1nOkrDX2JPsYHlBFv8Q.jpg" group-title="TDT" tvg-id="Cuatro HD", Cuatro HD
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178042
