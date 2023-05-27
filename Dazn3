@@ -1,4 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Dazn 3" tvg-logo="" group-title="MOVISTAR+",Dazn 3
-acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+#EXT-X-STREAM-INF:BANDWIDTH=2302326,RESOLUTION=1280x720,CODECS="avc1.42c01f,mp4a.40.2"
+crtvg/events2_high/chunks.m3u8
+
+
+
+
+
+#acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #MDazn 3
