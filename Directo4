@@ -1,7 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 4" tvg-logo="" group-title="MOVISTAR+",Directo 4
-acestream://f497e7145444e9979fb477cc2d3752f26f3dc5dc
-#M. Liga de campeones UHD
-
 acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
 # Sport tv 2
