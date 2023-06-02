@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="" group-title="MOVISTAR+",Eurosport 2
-acestream://e3bc0fb297326d55817195d8646905799ac245c4
-#Eurosport 2 FullHD
-
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 #Eurosport 2 HD
+acestream://e3bc0fb297326d55817195d8646905799ac245c4
+#Eurosport 2 FullHD
