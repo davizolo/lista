@@ -1,6 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 3" tvg-logo="" group-title="MOVISTAR+",Directo 3
-https://events1-crtvg.flumotion.com/playlist.m3u8
-
-#acestream://c95422bc904378be0b035eba721d5e6a004f7d79
+acestream://c95422bc904378be0b035eba721d5e6a004f7d79
 # Sport tv 1
