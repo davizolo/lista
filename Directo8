@@ -1,6 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 8" tvg-logo="" group-title="MOVISTAR+",Directo 8
-https://events1-crtvg.flumotion.com/playlist.m3u8
-
-#acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 #M. Liga de Campeones HD
