@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 2" tvg-logo="" group-title="MOVISTAR+",Directo 2
-acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
+#acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
 #cuatro
 
-acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+#acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 # Dazn Laliga (otra version)
 
