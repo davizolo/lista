@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 5" tvg-logo="" group-title="MOVISTAR+",Directo 5
-acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+#acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #Dazn Laliga 2
