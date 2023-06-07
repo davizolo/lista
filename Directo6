@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 6" tvg-logo="" group-title="MOVISTAR+",Directo 6
-
+acestream://7d653cafd43f2c0a5f856f5503caefd4dbe02da3
+#Eurosport 1 España
 #acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 #Multiliga
 
