@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 2" tvg-logo="" group-title="MOVISTAR+",Directo 2
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#dazn 1 720p
+
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #vamos
 
