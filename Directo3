@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 3" tvg-logo="" group-title="MOVISTAR+",Directo 3
-http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
-
+acestream://e8d2ae01fab187655f7b47feaea4d6dad9211672
+#Dazn F1
 #acestream://c95422bc904378be0b035eba721d5e6a004f7d79
 # Sport tv 1
