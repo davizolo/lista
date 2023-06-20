@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Eurosport 1" tvg-logo="" group-title="MOVISTAR+",Eurosport 1
-acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+
 
 #Eurosport 1
