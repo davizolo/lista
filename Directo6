@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 6" tvg-logo="" group-title="MOVISTAR+",Directo 6
 
-acestream://a88c674c825fd00a936f424f58cd9004f52eb59b
+#acestream://a88c674c825fd00a936f424f58cd9004f52eb59b
 #F1 multicamara
 
 
