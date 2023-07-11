@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 4" tvg-logo="" group-title="MOVISTAR+",Directo 4
-acestream://a04af4852f5c3a2f277ba245a3d1af1dc6eeffdf
-#winbledom 4k
+
 #acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
 # Sport tv 2
