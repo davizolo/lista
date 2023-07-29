@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 1" tvg-logo="" group-title="MOVISTAR+",Directo 1
+acestream://d601f61fed3f208d9aa84a823b99e614981a84f9
+
+
 #acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #M. Deportes 5
 
