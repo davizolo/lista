@@ -1,11 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 2" tvg-logo="" group-title="MOVISTAR+",Directo 2
-#acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#M. Deportes 6
-
-#acestream://887381a96adc6547a2461e159f63c02ba3e47469
-#F1 1080p
-
-#acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
-# Dazn Laliga (otra version)
-
+#acestream://
