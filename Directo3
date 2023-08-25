@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 3" tvg-logo="" group-title="MOVISTAR+",Directo 3
-acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+#acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
 #Magenta Sport 3
