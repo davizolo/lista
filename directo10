@@ -1,6 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 10" tvg-logo="" group-title="MOVISTAR+",Directo 10
-acestream://76d4087a189f847d2edbfb3979ee0e19b5b28899
-#F1 4k
-
-
+acestream://
