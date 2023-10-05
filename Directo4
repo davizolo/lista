@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 4" tvg-logo="" group-title="MOVISTAR+",Directo 4
-acestream://1b48d5881337c87b89e1edefff6688fe2271d222
+#acestream://1b48d5881337c87b89e1edefff6688fe2271d222
 #M.Ligadecampeones 4 
