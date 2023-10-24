@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="M.Liga de Campeones" tvg-logo="" group-title="MOVISTAR+",M.Liga de Campeones
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
 
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
