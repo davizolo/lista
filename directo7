@@ -1,4 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 7" tvg-logo="" group-title="MOVISTAR+",Directo 7
-http://50.7.66.234:8080/Arias/Rafita30/1143419
-#Dazn F1
+acestream://
