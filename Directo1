@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 1" tvg-logo="" group-title="MOVISTAR+",Directo 1
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 
 #Directo 1
