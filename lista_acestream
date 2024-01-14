@@ -44,3 +44,6 @@ acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 #EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="MOVISTAR",M+ Deportes 4
 acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
 
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="MOVISTAR",DAZN F1
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+
