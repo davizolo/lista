@@ -7,5 +7,7 @@ acestream://26029f72a4ca831d09deefe89534818db1d105bc
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES : LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="MOVISTAR",ES : LALIGA TV HYPERMOTION
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="MOVISTAR+",ES: LALIGA TV HYPERMOTION 2
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 tvg-id="Movistar plus+" tvg-name="ES : MOVISTAR PLUS +" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="MOVISTAR",ES: MOVISTAR PLUS +
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
