@@ -61,3 +61,6 @@ acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 #EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="MOVISTAR",EUROSPORT 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="MOVISTAR",EUROSPORT 2
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
