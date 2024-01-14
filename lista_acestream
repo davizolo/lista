@@ -9,7 +9,7 @@ acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="MOVISTAR+",LALIGA TV HYPERMOTION 2
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M. LIGA DE CAMPEONES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="MOVISTAR",M. LIGA DE CAMPEONES
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="MOVISTAR",M+ Liga de Campeones
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 tvg-id="Movistar plus+" tvg-name="MOVISTAR PLUS +" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="MOVISTAR",MOVISTAR PLUS +
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
