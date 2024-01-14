@@ -1,7 +1,7 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-name="ES : M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR",ES : M+ LALIGA TV
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="ES : M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR",ES : M+ LALIGA TV
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-name="ES : DAZN LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="MOVISTAR",ES : DAZN LALIGA
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="ES : DAZN LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="MOVISTAR",ES : DAZN LALIGA
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES : LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="MOVISTAR",ES : LALIGA TV HYPERMOTION
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
