@@ -11,5 +11,7 @@ acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="MOVISTAR",M+ Liga de Campeones
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M. Liga de Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="MOVISTAR",M+ Liga de Campeones 2
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 tvg-id="Movistar plus+" tvg-name="MOVISTAR PLUS +" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="MOVISTAR",MOVISTAR PLUS +
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
