@@ -47,6 +47,9 @@ acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
 #EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP11.png" group-title="MOVISTAR",M+ Deportes 5
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3 
 
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI8.png" group-title="MOVISTAR",M+ Deportes 6
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+
 #EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI6.png" group-title="MOVISTAR",M+ Deportes 7
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
