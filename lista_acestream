@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR",M+ LALIGA TV
-https://raw.githubusercontent.com/davizolo/lista/main/M.Laliga%20HD
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
 
 #EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="M+ LALIGA TV 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="MOVISTAR",M+ LALIGA TV 2
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
