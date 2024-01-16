@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 1080", M.Liga 1080
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR",M+ LALIGA TV
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 
 
