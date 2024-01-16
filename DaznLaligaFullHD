@@ -1,2 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="MOVISTAR",DAZN LALIGA
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #Dazn Laliga 
