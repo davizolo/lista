@@ -1,4 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Diferido 12" tvg-logo="http://privado2.dyndns.org//img_canales/diferidos/diferido12.jpg" group-title="Diferido", Diferido 12
-http://privado2.dyndns.org/files/diferido12.ts
+#EXTINF:-1 tvg-name="Diferido 12" tvg-logo="http://privado2.dyndns.org//img_canales/diferidos/diferido12.jpg" group-title="Diferido", S.Gijón Vs R. Ferrol (28-01-24)
+
+http://privado2.dyndns.org/files/diferido12.mp4
 #Diferido12
