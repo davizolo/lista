@@ -73,3 +73,8 @@ acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="MOVISTAR",EUROSPORT 2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
+
+#EXTINF:-1 tvg-id="TENNIS CHANNEL" tvg-name="TENNIS CHANNEL" tvg-logo="https://i0.wp.com/www.tennispanorama.com/wp-content/uploads/2022/08/Tennis-Channel.png?resize=314%2C450" group-title="MOVISTAR",TENNIS CHANNEL
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+
+
