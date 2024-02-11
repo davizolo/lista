@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TENNIS CHANNEL" tvg-name="TENNIS CHANNEL" tvg-logo="https://www.tennischannel.app/image/original/5d95ead999361.png?v=20211004131544" group-title="MOVISTAR",TENNIS CHANNEL
+#EXTINF:-1 tvg-id="TENNIS CHANNEL" tvg-name="TENNIS CHANNEL" tvg-logo="https://i0.wp.com/www.tennispanorama.com/wp-content/uploads/2022/08/Tennis-Channel.png?resize=314%2C450" group-title="MOVISTAR",TENNIS CHANNEL
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 acestream://8552d0ab6ca31e07a2de46f2d7ff1c546212dc2b
 #Tennis Channel
