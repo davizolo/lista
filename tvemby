@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U url-tvg="http://tvprivada.dyndns.org"
 
 #EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR",M+ LALIGA TV
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
