@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="MOVISTAR",DAZN 1
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 
 #acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
