@@ -77,6 +77,6 @@ acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 tvg-id="TENNIS CHANNEL" tvg-name="TENNIS CHANNEL" tvg-logo="https://i0.wp.com/www.tennispanorama.com/wp-content/uploads/2022/08/Tennis-Channel.png?resize=314%2C450" group-title="MOVISTAR",TENNIS CHANNEL
 acestream://756aa727f132136b43e1937affcc69cbe40fccad
 
-#EXTINF:-1 tvg-name="Super Tennis HD" tvg-logo="https://images.zattic.com/logos/6067d9f740f159c57c8b/black/original.svg" group-title="MOVISTAR+",Super Tennis HD (IT)
+#EXTINF:-1 tvg-name="Super Tennis HD" tvg-logo="https://images.zattic.com/logos/6067d9f740f159c57c8b/black/original.svg" group-title="MOVISTAR",Super Tennis HD (IT)
 acestream://b58dbf92765976b308695f62dea94b00b40730ee
 
