@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Directo 2" tvg-logo="" group-title="MOVISTAR+",Directo 2
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+Laliga Bar 1080p
+
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 #R. Madrid Vs Manchester City 720p
 #Directo 2
