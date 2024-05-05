@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="MOVISTAR",DAZN F1
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+
 acestream://5789ca155323664edd293b848606688edf803f4d
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
 
 
 #Dazn F1
