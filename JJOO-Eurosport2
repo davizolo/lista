@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:0,
+#EXTINF:-1 tvg-name="Eurospor 2" tvg-logo="" group-title="Eurosport", Eurosport 2
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=3e0df5e0e93cc867022e320afef0aaecda9509fe
