@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=76a482a4cb53fc28518187c6b814f136b3db3c95
