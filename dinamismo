@@ -16,6 +16,9 @@ acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-id="Canal + sport pl" tvg-name="Canal + sport pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal%2B_Sport_PL_2009.png" group-title="MOVISTAR",Canal + sport pl
 acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
+#EXTINF:-1 tvg-id="Canal + sport 2 pl" tvg-name="Canal + sport 2 pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="MOVISTAR",Canal + sport 2 pl
+acestream://fcaeee5dc1e826881c1a517e97f2836e730edf5b
+
 
 
 
