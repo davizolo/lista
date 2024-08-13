@@ -10,16 +10,11 @@ acestream://3147c586346aee00c005d1caa55204d38678c95f
 #EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="Polsat Sport Premium Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Polsat_Sport_Extra_logo_2016.png" group-title="MOVISTAR",Polsat Sport Extra
 acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Tvp Sport" tvg-name="Tvp Sport" tvg-logo="https://s.tvp.pl/files/portale-v4/sport-tvp-pl/images/tvpsport_logo_social.png" group-title="MOVISTAR",Tvp Sport
 acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 
+#EXTINF:-1 tvg-id="Canal + sport pl" tvg-name="Canal + sport pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal%2B_Sport_PL_2009.png" group-title="MOVISTAR",Canal + sport pl
+acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
 
 
