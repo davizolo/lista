@@ -1,6 +1,11 @@
 #EXTINF:-1 tvg-id="Polsat Sport" tvg-name="Polsat Sport" tvg-logo="https://ipla.pluscdn.pl/dituel/cp/tf/tfiup9u1381yfzz8zvu47xp6ypkqwupq.jpg" group-title="MOVISTAR",Polsat Sport
 acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="Polsat Sport Premium 1" tvg-logo="https://logos.fandom.com/wiki/File:Polsat_Sport_Premium_1_2021_horizontal.svg" group-title="MOVISTAR",Polsat Sport
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
+
+
+
 
 #EXTINF:-1 tvg-id="Tvp Sport" tvg-name="Tvp Sport" tvg-logo="https://s.tvp.pl/files/portale-v4/sport-tvp-pl/images/tvpsport_logo_social.png" group-title="MOVISTAR",Tvp Sport
 acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
