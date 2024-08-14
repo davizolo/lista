@@ -76,7 +76,7 @@ acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="MOVISTAR",Eurosport 2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
-#EXTINF:-1 tvg-id="TENNIS CHANNEL" tvg-name="TENNIS CHANNEL" tvg-logo="https://i0.wp.com/www.tennispanorama.com/wp-content/uploads/2022/08/Tennis-Channel.png?resize=314%2C450" group-title="MOVISTAR",TENNIS CHANNEL
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://i0.wp.com/www.tennispanorama.com/wp-content/uploads/2022/08/Tennis-Channel.png?resize=314%2C450" group-title="MOVISTAR",Tennis Channel
 acestream://756aa727f132136b43e1937affcc69cbe40fccad
 
 #EXTINF:-1 tvg-name="Super Tennis HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png?20220105234442" group-title="MOVISTAR",Super Tennis HD (IT)
