@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, ropical.jungle-team.online/epg/koala3.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_light.xml.gz, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, ropical.jungle-team.online/epg/koala3.xml"
 
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="La 1",La 1
