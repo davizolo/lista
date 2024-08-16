@@ -3,7 +3,8 @@
 
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="La 1",La 1
-acestream://b897de3e62d7c6bee9ef1107d972f3d1075e03ff
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=b897de3e62d7c6bee9ef1107d972f3d1075e03ff
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TDT" tvg-name="La 2",La 2
 acestream://2001b0d65d41ffc4086070bf7a63bdb1c59ea737
