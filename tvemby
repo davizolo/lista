@@ -1,3 +1,4 @@
+
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
 #EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR",M+ LALIGA TV
@@ -80,6 +81,5 @@ acestream://756aa727f132136b43e1937affcc69cbe40fccad
 
 #EXTINF:-1 tvg-id="Super Tennis" tvg-name="Super Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png?20220105234442" group-title="MOVISTAR",Super Tennis
 acestream://b58dbf92765976b308695f62dea94b00b40730ee
-
 
 
