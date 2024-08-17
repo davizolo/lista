@@ -154,3 +154,7 @@ http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-id="SUPER TENNIS" tvg-name="SUPER TENNIS" tvg-logo="https://archive.org/download/supersport-tennis-1/unnamed.png" group-title="EXTRANJEROS",SUPER TENNIS
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://i0.wp.com/www.tennispanorama.com/wp-content/uploads/2022/08/Tennis-Channel.png?resize=314%2C450" group-title="EXTRANJEROS",Tennis Channel
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=756aa727f132136b43e1937affcc69cbe40fccad
