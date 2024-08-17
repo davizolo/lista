@@ -189,7 +189,7 @@ http://127.0.0.1:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 
 
 
-#EXTINF:-1 tvg-id="Sky Sport Football" tvg-name="Sky Sport Football" tvg-logo="https://www.phonesreview.co.uk/wp-content/phoneimages/Sky-Sports-Football-app.jpg" group-title="EXTRANJEROS", Sky Sport Football
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-name="Sky Sports Football" tvg-logo="https://www.phonesreview.co.uk/wp-content/phoneimages/Sky-Sports-Football-app.jpg" group-title="EXTRANJEROS", Sky Sports Football
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 
