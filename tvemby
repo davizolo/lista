@@ -1,7 +1,7 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_light.xml.gz, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, http://tropical.jungle-team.online/epg/koala3.xml"
 
-#EXTINF:-1 tvg-id="*** TDT ***"
+
 
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT" tvg-name="La 1",La 1
@@ -21,7 +21,7 @@ http://127.0.0.1:6878/ace/getstream?id=e4ad9a695558d9fc38462caaee57157946d2d4dc
 
 
 
-*** MOVISTAR ****
+
 
 #EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="MOVISTAR",M+ LALIGA TV
 #EXTVLCOPT:network-caching=1000
@@ -125,7 +125,7 @@ http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 
 
 
-*** EXTRANJEROS ***
+
 
 #EXTINF:-1 tvg-id="Polsat Sport" tvg-name="Polsat Sport" tvg-logo="https://ipla.pluscdn.pl/dituel/cp/tf/tfiup9u1381yfzz8zvu47xp6ypkqwupq.jpg" group-title="EXTRANJEROS",Polsat Sport
 #EXTVLCOPT:network-caching=1000
@@ -302,7 +302,9 @@ http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 http://127.0.0.1:6878/ace/getstream?id=756aa727f132136b43e1937affcc69cbe40fccad
 
 
-*** DIFERIDOS ***
+
+
+
 
 #EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", UFC VEGAS 95 | Marcin Tybura - Serghei Spivac (10/08/24)
 #EXTVLCOPT:network-caching=1000
