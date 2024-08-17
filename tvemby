@@ -13,9 +13,8 @@ https://raw.githubusercontent.com/davizolo/lista/main/la2
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="TDT" tvg-name="24h",24h
 https://raw.githubusercontent.com/davizolo/lista/main/24h
 
-#EXTINF:-1 tvg-id="TDP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/640px-Tve_teledeporte.png" group-title="TDT" tvg-name="TDP",TDP
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 tvg-id="tdt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/640px-Tve_teledeporte.png" group-title="TDT" tvg-name="tdp",tdp
+https://raw.githubusercontent.com/davizolo/lista/main/tdt
 
 
 
