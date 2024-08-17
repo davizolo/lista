@@ -192,3 +192,8 @@ http://127.0.0.1:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 #EXTINF:-1 tvg-id="Sky Sport Football" tvg-name="Sky Sport Football" tvg-logo="https://www.phonesreview.co.uk/wp-content/phoneimages/Sky-Sports-Football-app.jpg" group-title="EXTRANJEROS", Sky Sport Football
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+
+
+#EXTINF:-1 tvg-id="TNT SPORTS 1" tvg-name="TNT SPORTS 1" tvg-logo="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" group-title="EXTRANJEROS", TNT SPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
