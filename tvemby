@@ -197,3 +197,9 @@ http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="TNT SPORTS 1" tvg-name="TNT SPORTS 1" tvg-logo="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" group-title="EXTRANJEROS", TNT SPORTS 1
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+
+
+#EXTINF:-1 tvg-id="TNT SPORTS 2" tvg-name="TNT SPORTS 2" tvg-logo="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" group-title="EXTRANJEROS", TNT SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
