@@ -175,4 +175,15 @@ http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 
+#EXTINF:-1 tvg-id="Sport TV 1" tvg-name="Sport TV 1" tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc" group-title="EXTRANJEROS" tvg-id="Sport TV 1", Sport TV1 POR FHD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=c95422bc904378be0b035eba721d5e6a004f7d79
+
+#EXTINF:-1 tvg-id="Sport TV 2" tvg-name="Sport TV 2" tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc" group-title="EXTRANJEROS" tvg-id="Sport TV 2", Sport TV2 POR FHD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=a1bd609a2d64d1ee4b81af32464b36848fe36541
+
+#EXTINF:-1 tvg-id="Sport TV 3" tvg-name="Sport TV 3" tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc" group-title="EXTRANJEROS" tvg-id="Sport TV 3", Sport TV3 POR FHD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 
