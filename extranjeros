@@ -3,7 +3,25 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_light.xml.gz, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, http://tropical.jungle-team.online/epg/koala3.xml"
 
 
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="Polsat Sport" tvg-logo="https://ipla.pluscdn.pl/dituel/cp/tf/tfiup9u1381yfzz8zvu47xp6ypkqwupq.jpg" group-title="EXTRANJEROS",Polsat Sport
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="Polsat Sport Premium 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Polsat_Sport_Premium_1_2021_horizontal_gradient.svg/revision/latest?cb=20210819120938" group-title="EXTRANJEROS",Polsat Sport Premium 1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="Polsat Sport Premium 2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/b6/Polsat_Sport_Premium_2_%282018-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20201030164942" group-title="EXTRANJEROS",Polsat Sport Premium 2
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
+
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="Polsat Sport Premium Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Polsat_Sport_Extra_logo_2016.png" group-title="EXTRANJEROS",Polsat Sport Extra
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+
+#EXTINF:-1 tvg-id="Tvp Sport" tvg-name="Tvp Sport" tvg-logo="https://s.tvp.pl/files/portale-v4/sport-tvp-pl/images/tvpsport_logo_social.png" group-title="EXTRANJEROS",Tvp Sport
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 
 
 #EXTINF:-1 tvg-id="ELEVEN SPORT 1 POR" tvg-name="ELEVEN SPORT 1 POR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-1-pt-1500.png" group-title="EXTRANJEROS",ELEVEN SPORT 1 POR
