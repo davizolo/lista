@@ -349,7 +349,7 @@ http://privado2.dyndns.org/files/diferido10.mp4
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido11.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 12" tvg-name="DIFERIDO 12" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Próximamente Carrera GP Austria (18-08-24)
+#EXTINF:-1 tvg-id="DIFERIDO 12" tvg-name="DIFERIDO 12" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Carrera GP Austria (18-08-24)
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido12.mp4
 
