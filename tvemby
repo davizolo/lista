@@ -23,6 +23,10 @@ http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
 
+#EXTINF:-1 tvg-id="M+ LALIGA TV BAR" tvg-name="M+ LALIGA TV BAR" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/07/laliga_logo-freelogovectors.net_-180x135.png" group-title="MOVISTAR",M+ LALIGA TV BAR
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="MOVISTAR",DAZN LALIGA
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
