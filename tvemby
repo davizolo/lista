@@ -1,7 +1,9 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_light.xml.gz, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, http://tropical.jungle-team.online/epg/koala3.xml"
 
-
+#EXTINF:-1 tvg-id="M+ La 1" tvg-name="La 1" tvg-logo="https://w7.pngwing.com/pngs/1009/538/png-transparent-la-1-television-la-2-rtve-audiencia-others-television-blue-angle.png" group-title="TDT",M+ La 1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
 
 
