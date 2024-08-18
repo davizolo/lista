@@ -5,11 +5,13 @@
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
-#EXTINF:-1 tvg-id="M+ La 2" tvg-name="La 2" tvg-logo="https://seeklogo.com/images/T/tve-la-2-logo-6F4245B905-seeklogo.com.png" group-title="TDT",M+ La 2
+#EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://seeklogo.com/images/T/tve-la-2-logo-6F4245B905-seeklogo.com.png" group-title="TDT",La 2
 #EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=
+http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
 
-
+#EXTINF:-1 tvg-id="tdp" tvg-name="tdp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="TDT",tdp
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 
 
 
