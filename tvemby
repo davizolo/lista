@@ -5,7 +5,9 @@
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
-
+#EXTINF:-1 tvg-id="M+ La 2" tvg-name="La 2" tvg-logo="https://seeklogo.com/images/T/tve-la-2-logo-6F4245B905-seeklogo.com.png" group-title="TDT",M+ La 2
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=
 
 
 
