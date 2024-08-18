@@ -317,7 +317,7 @@ http://privado2.dyndns.org/files/diferido3.mp4
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido4.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 5" tvg-name="DIFERIDO 5" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Próximamente Mallorca Vs R. Madrid (18-08-24)
+#EXTINF:-1 tvg-id="DIFERIDO 5" tvg-name="DIFERIDO 5" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Mallorca Vs R. Madrid (18-08-24)
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido5.mp4
 
