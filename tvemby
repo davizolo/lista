@@ -302,22 +302,22 @@ http://127.0.0.1:6878/ace/getstream?id=756aa727f132136b43e1937affcc69cbe40fccad
 
 
 
-#EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", UFC 305 | Velada completa -  Dricus du Plessis - Israel Adesanya (18/08/24)
+#EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 1
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido1.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Supercopa Europa - R.Madrid Vs Atalanta (14-08-24)
+#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 2
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido2.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS",R. Ferrol Vs Malaga C.F. (17-08-24)
+#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 3
 http://privado2.dyndns.org/files/diferido3.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 4" tvg-name="DIFERIDO 4" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Valencia Vs Barcelona (17-08-24)
+#EXTINF:-1 tvg-id="DIFERIDO 4" tvg-name="DIFERIDO 4" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 4
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido4.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 5" tvg-name="DIFERIDO 5" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Mallorca Vs R. Madrid (18-08-24)
+#EXTINF:-1 tvg-id="DIFERIDO 5" tvg-name="DIFERIDO 5" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 5
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido5.mp4
 
@@ -341,11 +341,11 @@ http://privado2.dyndns.org/files/diferido9.mp4
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido10.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 11" tvg-name="DIFERIDO 11" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Sprint GP Austria (17-08-24)
+#EXTINF:-1 tvg-id="DIFERIDO 11" tvg-name="DIFERIDO 11" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 11
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido11.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 12" tvg-name="DIFERIDO 12" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Carrera GP Austria (18-08-24)
+#EXTINF:-1 tvg-id="DIFERIDO 12" tvg-name="DIFERIDO 12" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 12
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido12.mp4
 
