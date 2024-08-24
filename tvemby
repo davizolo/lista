@@ -321,7 +321,7 @@ http://privado2.dyndns.org/files/diferido4.mp4
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido5.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 6" tvg-name="DIFERIDO 6" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 6
+#EXTINF:-1 tvg-id="DIFERIDO 6" tvg-name="DIFERIDO 6" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Carrera - GP F1 Países Bajos (25-08-24)
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido6.mp4
 
