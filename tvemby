@@ -313,7 +313,8 @@ http://privado2.dyndns.org/files/diferido2.mp4
 #EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Barcelona Vs Atletic Club (24-08-24)
 http://privado2.dyndns.org/files/diferido3.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 4" tvg-name="DIFERIDO 4" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 4
+#EXTINF:-1 tvg-id="DIFERIDO 4" tvg-name="DIFERIDO 4" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", 
+R. Madrid Vs R. Valladolid (25-08-24)
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido4.mp4
 
