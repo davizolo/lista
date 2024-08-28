@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZNLALIGA2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="MOVISTAR",DAZN LALIGA 2
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZNLALIGA2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="MOVISTAR",DAZN LALIGA 2
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
 
