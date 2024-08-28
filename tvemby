@@ -35,7 +35,7 @@ http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
 
-#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZNLALIGA2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="MOVISTAR",DAZN LALIGA 2
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LALIGA 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="MOVISTAR",DAZN LALIGA 2
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
