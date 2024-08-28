@@ -111,7 +111,9 @@ http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 
 
 
-
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA" tvg-logo="https://www.t-mobile.com/news/_admin/uploads/2021/01/nr-article-NBA-TV-To-Tvision-1-15-21.png" group-title="EXTRANJEROS", NBA
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
 #EXTINF:-1 tvg-id="SUPER TENNIS" tvg-name="SUPER TENNIS" tvg-logo="https://archive.org/download/supersport-tennis-1/unnamed.png" group-title="EXTRANJEROS",SUPER TENNIS
 #EXTVLCOPT:network-caching=1000
