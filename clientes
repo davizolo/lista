@@ -161,7 +161,7 @@ http://privado2.dyndns.org/files/diferido6.mp4
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido7.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 8" tvg-name="DIFERIDO 8" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 8
+#EXTINF:-1 tvg-id="DIFERIDO 8" tvg-name="DIFERIDO 8" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", MotoGp Carrera GP Aragón (01-09-24)
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido8.mp4
 
