@@ -189,9 +189,9 @@ http://privado2.dyndns.org/files/diferido13.mp4
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido14.mp4
 
-#EXTINF:1 tvg-id="DIFERIDO 15" tvg-name="DIFERIDO 15" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 15s
+#EXTINF:1 tvg-id="DIFERIDO 15" tvg-name="DIFERIDO 15" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 15
 #EXTVLCOPT:network-caching=1000
-http://privado2.dyndns.org/files/diferido15.ts
+http://privado2.dyndns.org/files/diferido15.mp4
 
 
 
