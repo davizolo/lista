@@ -151,8 +151,8 @@ http://127.0.0.1:6878/ace/getstream?id=756aa727f132136b43e1937affcc69cbe40fccad
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido1.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS",R. Sociedad - R. Madrid (14-09-24)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", R. Sociedad - R. Madrid (14-09-24)
+#EXTVLCOPT:network-caching=1000 
 http://privado2.dyndns.org/files/diferido2.mp4
 
 #EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Girona - Barcelona (15-09-24)
@@ -162,11 +162,11 @@ http://privado2.dyndns.org/files/diferido3.mp4
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido4.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 5" tvg-name="DIFERIDO 5" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS",Clasificación F1 GP ACERBAIJAN (14-09-24)
+#EXTINF:-1 tvg-id="DIFERIDO 5" tvg-name="DIFERIDO 5" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Clasificación F1 GP ACERBAIJAN (14-09-24)
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido5.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 6" tvg-name="DIFERIDO 6" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS",Carrera F1 GP ACERBAIJAN (14-09-24)
+#EXTINF:-1 tvg-id="DIFERIDO 6" tvg-name="DIFERIDO 6" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Carrera F1 GP ACERBAIJAN (14-09-24)
 
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido6.mp4
