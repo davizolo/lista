@@ -111,19 +111,19 @@ acestream://756aa727f132136b43e1937affcc69cbe40fccad
 
 
 
-#EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Clasificacion F1 G.P. Singapur (21-09-24)
+#EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Sprint Moto GP Indonesia (28-09-24)
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido1.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Carrera F1 G.P. Singapur (22-09-24)
+#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Carrera Moto GP Indonesia (29-09-24)
 #EXTVLCOPT:network-caching=1000 
 http://privado2.dyndns.org/files/diferido2.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", SPRINT MotoGP G.P. Misano (21-09-24)
+#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 3
 #EXTVLCOPT:network-caching=1000 
 http://privado2.dyndns.org/files/diferido3.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 4" tvg-name="DIFERIDO 4" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Carrera MotoGP G.P. Misano (22-09-24)
+#EXTINF:-1 tvg-id="DIFERIDO 4" tvg-name="DIFERIDO 4" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 4
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido4.mp4
 
