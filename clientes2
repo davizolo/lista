@@ -149,7 +149,7 @@ http://127.0.0.1:6878/ace/getstream?id=756aa727f132136b43e1937affcc69cbe40fccad
 #EXTVLCOPT:network-caching=1000
 http://privado2.dyndns.org/files/diferido1.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 2
+#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Carrera Moto GP Indonesia (29-09-24)
 #EXTVLCOPT:network-caching=1000 
 http://privado2.dyndns.org/files/diferido2.mp4
 
