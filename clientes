@@ -68,6 +68,8 @@ acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Champions",M+ Liga de Campeones (opcion 3)
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="LaLiga TV BAR HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/07/laliga_logo-freelogovectors.net_-180x135.png" group-title="Champions",LaLiga TV BAR HD
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Champions",M+ Liga de Campeones 2
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
