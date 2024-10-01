@@ -87,6 +87,9 @@ http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
 
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="LaLiga TV BAR HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/07/laliga_logo-freelogovectors.net_-180x135.png" group-title="Champions",LaLiga TV BAR HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Champions",M+ Liga de Campeones 2
 #EXTVLCOPT:network-caching=1000
