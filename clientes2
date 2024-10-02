@@ -236,6 +236,101 @@ http://127.0.0.1:6878/ace/getstream?id=756aa727f132136b43e1937affcc69cbe40fccad
 
 
 
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png", Sky Sports Main Event UK
+http://127.0.0.1:6878/ace/manifest.m3u8?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png", Sky Sports Premier League
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+
+#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo.png", Sky Sports Football
+http://127.0.0.1:6878/ace/manifest.m3u8?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png", BT Sport 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a100.png", BT Sport 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a108.png", BT Sport 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=5f966c123759de46dff29c379266b7a403452033
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a98.png", BT Sport 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png", Premier Sport 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png", Premier Sport 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+
+#EXTINF:-1, tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png", Bein Sport 1 FR
+http://127.0.0.1:6878/ace/manifest.m3u8?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+
+#EXTINF:-1, tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png", Bein Sport 2 FR
+http://127.0.0.1:6878/ace/manifest.m3u8?id=edb507e38394d614c9ff55805c9d354ae13210bc
+
+#EXTINF:-1, tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png", Bein Sport 3 FR
+http://127.0.0.1:6878/ace/manifest.m3u8?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/MG3Vc2xT/elevensports14k.png", ELEVEN SPORT 1 UHD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png", ELEVEN SPORT 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png", ELEVEN SPORT 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png", ELEVEN SPORT 3
+http://127.0.0.1:6878/ace/manifest.m3u8?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png", ELEVEN SPORT 4
+http://127.0.0.1:6878/ace/manifest.m3u8?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Polsat_Sport_logo_2016.png", POLSAT SPORT
+http://127.0.0.1:6878/ace/manifest.m3u8?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Polsat_Sport_Premium_1_2021.png", POLSAT SPORT 1
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Polsat_Sport_Premium_2_2021.png", POLSAT SPORT 2
+http://127.0.0.1:6878/ace/manifest.m3u8?id=3147c586346aee00c005d1caa55204d38678c95f
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1500.png", Eleven Sports 1 POR
+http://127.0.0.1:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1500.png", Eleven Sports 1 POR
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a451fabece476244792d26c653befa0b3bcdafe4
+ 
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1501.png", Eleven Sports 2 POR
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1501.png", Eleven Sports 2 POR
+http://127.0.0.1:6878/ace/manifest.m3u8?id=d73687c0a4fcc11d91321faa71d68b097c709241
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1502.png", Eleven Sports 3 POR
+http://127.0.0.1:6878/ace/manifest.m3u8?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1557.png", Eleven Sports 4 POR
+http://127.0.0.1:6878/ace/manifest.m3u8?id=0f32c0131a2d9444996410801f4e18b04384db98
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1558.png", Eleven Sports 5 POR
+http://127.0.0.1:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a1559.png", Eleven Sports 6 POR
+http://127.0.0.1:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+
+#EXTINF:-1, tvg-logo="https://i.goalzz.com/?i=logo_sport%2fziggo_sport_select.jpg", ZIGGO SPORT SELECT
+http://127.0.0.1:6878/ace/manifest.m3u8?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Match_TV_logo.png", MATCH HD RUSIA
+http://127.0.0.1:6878/ace/manifest.m3u8?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+
+
+
+
+
+
 
 
 
