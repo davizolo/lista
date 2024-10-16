@@ -1,4 +1,0 @@
-
-#EXTM3U
-#EXTINF:-1 tvg-id="tdp" tvg-name="tdp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="TDT",tdp
-https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr.m3u8
