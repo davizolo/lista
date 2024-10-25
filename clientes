@@ -186,25 +186,25 @@ acestream://756aa727f132136b43e1937affcc69cbe40fccad
 
 
 
-#EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 1
+#EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", MotoGP SPRINT GP Tailandia
 #EXTVLCOPT:network-caching=1000
-http://privado2.dyndns.org/files/diferido1.mp4
+http://privado2.dyndns.org/files/motogpsprint.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 2
+#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", MotoGP CARRERA GP Tailandia
 #EXTVLCOPT:network-caching=1000 
-http://privado2.dyndns.org/files/diferido2.mp4
+http://privado2.dyndns.org/files/motogpcarrera.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 3
+#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", F1 CLASIFICACION GP Mexico
 #EXTVLCOPT:network-caching=1000 
-http://privado2.dyndns.org/files/diferido3.mp4
+http://privado2.dyndns.org/files/f1clasificacion.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 4" tvg-name="DIFERIDO 4" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 4
+#EXTINF:-1 tvg-id="DIFERIDO 4" tvg-name="DIFERIDO 4" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", F1 CARRERA GP Mexico
 #EXTVLCOPT:network-caching=1000
-http://privado2.dyndns.org/files/diferido4.mp4
+http://privado2.dyndns.org/files/f1carrera.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 5" tvg-name="DIFERIDO 5" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 5
+#EXTINF:-1 tvg-id="DIFERIDO 5" tvg-name="DIFERIDO 5" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", UFC 308: Topuria vs. Holloway
 #EXTVLCOPT:network-caching=1000
-http://privado2.dyndns.org/files/diferido5.mp4
+http://privado2.dyndns.org/files/ufc308.mp4
 
 
 
