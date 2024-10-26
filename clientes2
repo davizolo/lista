@@ -234,6 +234,11 @@ http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=756aa727f132136b43e1937affcc69cbe40fccad
 
+#EXTINF:-1 tvg-id="Матч! Боец" tvg-name="Матч! Боец" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/a5ee/374a/a5ee374ac3cfa8d2ad130bf37a29a53b.jpg" group-title="EXTRANJEROS",Матч! Боец
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
+
+
 
 #EXTINF:-1 tvg-id="FightBox HD" tvg-name="FightBox HD" tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="EXTRANJEROS",FightBox HD
 #EXTVLCOPT:network-caching=1000
