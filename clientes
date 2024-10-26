@@ -183,8 +183,6 @@ acestream://b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://i0.wp.com/www.tennispanorama.com/wp-content/uploads/2022/08/Tennis-Channel.png?resize=314%2C450" group-title="EXTRANJEROS",Tennis Channel
 acestream://756aa727f132136b43e1937affcc69cbe40fccad
 
-#EXTINF:-1 tvg-id="FightBox HD" tvg-name="FightBox HD" tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="EXTRANJEROS",FightBox HD
-acestream://822654b2c0db24d1de149cb821fdd44a3b968fbfa
 
 #EXTINF:-1 tvg-id="FightBox HD" tvg-name="FightBox HD" tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="EXTRANJEROS",FightBox HD
 acestream://49b734a5a3365674480089264be00ae28fabb640
