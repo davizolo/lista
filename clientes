@@ -209,7 +209,7 @@ http://privado2.dyndns.org/files/20241102motogpsprint.mp4
 #EXTVLCOPT:network-caching=1000 
 http://privado2.dyndns.org/files/20241103motogpcarrera.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", F1 CLASIFICACION GP Brasil
+#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", F1 SPRINT GP Brasil
 #EXTVLCOPT:network-caching=1000 
 http://privado2.dyndns.org/files/20241102f1sprint.mp4
 
