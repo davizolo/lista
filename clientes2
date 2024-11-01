@@ -262,21 +262,21 @@ http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
 
 
 
-#EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", MotoGP SPRINT GP Tailandia
+#EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", MotoGP SPRINT GP Malaysia
 #EXTVLCOPT:network-caching=1000
-http://privado2.dyndns.org/files/motogpsprint.mp4
+http://privado2.dyndns.org/files/20241102motogpsprint.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", MotoGP CARRERA GP Tailandia
+#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", MotoGP CARRERA GP Malaysia
 #EXTVLCOPT:network-caching=1000 
-http://privado2.dyndns.org/files/motogpcarrera.mp4
+http://privado2.dyndns.org/files/20241103motogpcarrera.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", F1 CLASIFICACION GP Mexico
+#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", F1 CLASIFICACION GP Brasil
 #EXTVLCOPT:network-caching=1000 
-http://privado2.dyndns.org/files/f1clasificacion.mp4
+http://privado2.dyndns.org/files/20241102f1sprint.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 4" tvg-name="DIFERIDO 4" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", F1 CARRERA GP Mexico
+#EXTINF:-1 tvg-id="DIFERIDO 4" tvg-name="DIFERIDO 4" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", F1 CARRERA GP Brasil
 #EXTVLCOPT:network-caching=1000
-http://privado2.dyndns.org/files/f1carrera.mp4
+http://privado2.dyndns.org/files/20241103f1carrera.mp4
 
 #EXTINF:-1 tvg-id="DIFERIDO 5" tvg-name="DIFERIDO 5" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", UFC 308: Topuria vs. Holloway
 #EXTVLCOPT:network-caching=1000
