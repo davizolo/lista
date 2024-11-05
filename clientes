@@ -59,28 +59,28 @@ acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Champions",M+ Liga de Campeones
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Champions",M+ Liga de Campeones
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Champions",M+ Liga de Campeones (opcion 2)
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Champions",M+ Liga de Campeones (opcion 2)
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Champions",M+ Liga de Campeones (opcion 3)
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Champions",M+ Liga de Campeones (opcion 3)
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="LaLiga TV BAR HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/07/laliga_logo-freelogovectors.net_-180x135.png" group-title="Champions",LaLiga TV BAR HD
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
-#EXTINF:-1 tvg-id="Movistar Plus+" tvg-name="Movistar Plus+" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="Champions",Movistar Plus+
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="Champions",Movistar Plus+
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Champions",M+ Liga de Campeones 2
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Champions",M+ Liga de Campeones 2
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Champions",M+ Liga de Campeones 2 (opcion 2)
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Champions",M+ Liga de Campeones 2 (opcion 2)
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="Champions",M+ Liga de Campeones 3
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="Champions",M+ Liga de Campeones 3
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="Champions",M+ Liga de Campeones 4
@@ -91,10 +91,10 @@ acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
 
 
 
-#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="M+ Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes",M+ Vamos
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes",M+ Vamos
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
-#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="M+ Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes",M+ Vamos (opcion 2)
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes",M+ Vamos (opcion 2)
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 #EXTINF:-1 tvg-id="M+ Ellas Vamos" tvg-name="M+ Ellas Vamos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg/2880px-Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes",M+ Ellas Vamos
