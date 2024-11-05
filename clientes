@@ -5,21 +5,21 @@
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ LALIGA TV
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b 
 
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ LALIGA TV (opcion 2)
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ LALIGA TV (opcion 2)
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ LALIGA TV (opcion 3)
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ LALIGA TV (opcion 3)
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LALIGA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ LALIGA TV (opcion 4)
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LaLiga TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ LALIGA TV (opcion 4)
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 
 
-#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="M+ LALIGA TV 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="La Liga",M+ LALIGA TV 2
+#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="M+ LaLiga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="La Liga",M+ LALIGA TV 2
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
 
-#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="M+ LALIGA TV 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="La Liga",M+ LALIGA TV 2 (opcion 2)
+#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="M+ LaLiga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="La Liga",M+ LALIGA TV 2 (opcion 2)
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="LaLiga TV BAR HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/07/laliga_logo-freelogovectors.net_-180x135.png" group-title="La Liga",LaLiga TV BAR HD
