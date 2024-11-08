@@ -177,7 +177,7 @@ acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 tvg-id="NBA" tvg-name="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="EXTRANJEROS", NBA
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 
-#EXTINF:-1 tvg-id="SUPER TENNIS" tvg-name="SUPER TENNIS" tvg-logo="https://archive.org/download/supersport-tennis-1/unnamed.png" group-title="EXTRANJEROS",SUPER TENNIS
+#EXTINF:-1 tvg-id="SuperTennis.DTT.it" tvg-name="SuperTennis.DTT.it" tvg-logo="https://archive.org/download/supersport-tennis-1/unnamed.png" group-title="EXTRANJEROS",SUPER TENNIS
 acestream://b58dbf92765976b308695f62dea94b00b40730ee
 
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://i0.wp.com/www.tennispanorama.com/wp-content/uploads/2022/08/Tennis-Channel.png?resize=314%2C450" group-title="EXTRANJEROS",Tennis Channel
