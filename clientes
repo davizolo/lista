@@ -204,9 +204,9 @@ http://privado2.dyndns.org/files/20241116motogpsprint.mp4
 #EXTVLCOPT:network-caching=1000 
 http://privado2.dyndns.org/files/20241117motogpcarrera.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 3
+#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Boxeo - Jake Paul Vs. Mike Tyson (17-11-2024)
 #EXTVLCOPT:network-caching=1000 
-http://privado2.dyndns.org/files/diferido3.mp4
+http://privado2.dyndns.org/files/paulvstyson.mp4
 
 #EXTINF:-1 tvg-id="DIFERIDO 4" tvg-name="DIFERIDO 4" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 4
 #EXTVLCOPT:network-caching=1000
