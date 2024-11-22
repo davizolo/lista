@@ -187,7 +187,7 @@ http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
 
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="Deportes",DAZN 3
 #EXTVLCOPT:network-caching=1000 
-http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+http://127.0.0.1:6878/ace/getstream?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="Deportes",DAZN 4
 #EXTVLCOPT:network-caching=1000 
