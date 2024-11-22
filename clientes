@@ -186,17 +186,17 @@ acestream://756aa727f132136b43e1937affcc69cbe40fccad
 
 
 
-#EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", MotoGP SPRINT GP de la Solidaridad
+#EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Clasificacion GP F1 Las Vegas (23-11-2024)
 #EXTVLCOPT:network-caching=1000
-http://privado2.dyndns.org/files/20241116motogpsprint.mp4
+http://privado2.dyndns.org/files/f1clasificacion.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", MotoGP CARRERA GP de la Solidaridad
+#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Carrera GP F1 Las Vegas (23-11-2024)
 #EXTVLCOPT:network-caching=1000 
-http://privado2.dyndns.org/files/20241117motogpcarrera.mp4
+http://privado2.dyndns.org/files/f1carrera.mp4
 
-#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Boxeo - Jake Paul Vs. Mike Tyson (16-11-2024)
+#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 3
 #EXTVLCOPT:network-caching=1000 
-http://privado2.dyndns.org/files/paulvstyson.mp4
+http://privado2.dyndns.org/files/diferido3.mp4
 
 #EXTINF:-1 tvg-id="DIFERIDO 4" tvg-name="DIFERIDO 4" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 4
 #EXTVLCOPT:network-caching=1000
