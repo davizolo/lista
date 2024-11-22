@@ -3,80 +3,80 @@
 
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ LALIGA TV
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b 
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ LALIGA TV (opcion 2)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ LALIGA TV (opcion 3)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ LALIGA TV (opcion 4)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
 
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LaLiga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="La Liga",M+ LALIGA TV 2
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LaLiga TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="La Liga",M+ LALIGA TV 2 (opcion 2)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=80126b240f3e4e004754fd8f8103e857ab2556a0
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="LaLiga TV BAR HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/07/laliga_logo-freelogovectors.net_-180x135.png" group-title="La Liga",LaLiga TV BAR HD
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="La Liga",DAZN LALIGA
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="La Liga",DAZN LALIGA (opcion 2)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="La Liga",DAZN LALIGA (opcion 3)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2.png" group-title="La Liga",DAZN LALIGA 2
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="La Liga",LALIGA TV HYPERMOTION
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="La Liga",LALIGA TV HYPERMOTION (opcion 2)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="La Liga",LALIGA TV HYPERMOTION (opcion 3)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga TV Hypermotion HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="La Liga",LALIGA TV HYPERMOTION (opcion 4)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="La Liga",LALIGA TV HYPERMOTION 2 
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
 
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="LaLiga TV Hypermotion 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="La Liga",LALIGA TV HYPERMOTION 2 (opcion 2)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="La Liga",Movistar Plus+
-#EXTVLCOPT:network-caching=1000 
-http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTVLCOPT:network-caching=1000  
+http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
 
 
@@ -84,39 +84,39 @@ http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Champions",M+ Liga de Campeones
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Champions",M+ Liga de Campeones (opcion 2)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Champions",M+ Liga de Campeones (opcion 3)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
 
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="LaLiga TV BAR HD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/07/laliga_logo-freelogovectors.net_-180x135.png" group-title="Champions",LaLiga TV BAR HD
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="Champions",Movistar Plus+
-#EXTVLCOPT:network-caching=1000 
-http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTVLCOPT:network-caching=1000  
+http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Champions",M+ Liga de Campeones 2
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="Champions",M+ Liga de Campeones 2 (opcion 2)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="Champions",M+ Liga de Campeones 3
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
 
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="Champions",M+ Liga de Campeones 4
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
 
 
@@ -125,60 +125,46 @@ http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
 
 
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes",M+ Vamos
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="M+ Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="Deportes",M+ Vamos (opcion 2)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
 
 #EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="M+ Ellas Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg/2880px-Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes",M+ Ellas Vamos
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="Movistar Plus+ HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="Deportes",Movistar Plus+
-#EXTVLCOPT:network-caching=1000 
-http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTVLCOPT:network-caching=1000  
+http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes",M+ Deportes
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="Deportes",M+ Deportes (opcion 2)
-#EXTVLCOPT:network-caching=1000 
-http://127.0.0.1:6878/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879
+#EXTVLCOPT:network-caching=1000  
+http://127.0.0.1:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="Deportes",M+ Deportes 2
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
 
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="Deportes",M+ Deportes 2 (opcion 2)
-#EXTVLCOPT:network-caching=1000 
-http://127.0.0.1:6878/ace/getstream?id=/e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTVLCOPT:network-caching=1000  
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="Deportes",M+ Deportes 3
-#EXTVLCOPT:network-caching=1000 
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTVLCOPT:network-caching=1000  
+http://127.0.0.1:6878/ace/getstream?id=571bff4d12b1791eb99dbf20bec38e630693a6a3
 
-#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP3.png" group-title="Deportes",M+ Deportes 4
-#EXTVLCOPT:network-caching=1000 
-http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
 
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/USOP11.png" group-title="Deportes",M+ Deportes 5
-#EXTVLCOPT:network-caching=1000 
-http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3 
-
-#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI8.png" group-title="Deportes",M+ Deportes 6
-#EXTVLCOPT:network-caching=1000 
-http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-
-##EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MULTI6.png" group-title="Deportes",M+ Deportes 7
-#EXTVLCOPT:network-caching=1000 
-http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="Deportes",DAZN 1
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
 
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="Deportes",DAZN 2
@@ -186,7 +172,7 @@ http://127.0.0.1:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="Deportes",DAZN 3
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="Deportes",DAZN 4
@@ -194,11 +180,11 @@ http://127.0.0.1:6878/ace/getstream?id=19cd05c7ae26f22737ae5728b571ca36abd8a2e8
 http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102
 
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="Deportes",Eurosport 1
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes",Eurosport 2
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 
 
@@ -207,19 +193,19 @@ http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Motor",DAZN F1
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Motor",DAZN F1 (opcion 2)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Motor",DAZN F1 (opcion 3)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Motor",DAZN F1 (Multicamara)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
 
 
@@ -228,7 +214,7 @@ http://127.0.0.1:6878/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
 http://127.0.0.1:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
 
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="Motor",DAZN 1 (opcion 2)
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 
 
@@ -236,49 +222,28 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 
 
 #EXTINF:-1 tvg-id="NBA" tvg-name="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="EXTRANJEROS", NBA
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
 #EXTINF:-1 tvg-id="SuperTennis.DTT.it" tvg-name="SuperTennis.DTT.it" tvg-logo="https://archive.org/download/supersport-tennis-1/unnamed.png" group-title="EXTRANJEROS",SUPER TENNIS
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://i0.wp.com/www.tennispanorama.com/wp-content/uploads/2022/08/Tennis-Channel.png?resize=314%2C450" group-title="EXTRANJEROS",Tennis Channel
-#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:network-caching=1000  
 http://127.0.0.1:6878/ace/getstream?id=756aa727f132136b43e1937affcc69cbe40fccad
 
-#EXTINF:-1 tvg-id="Матч! Боец" tvg-name="Матч! Боец" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b2/Матч%21_Боец.jpg" group-title="EXTRANJEROS",Матч! Боец
+
+
+
+
+#EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Clasificacion GP F1 Las Vegas (23-11-2024)
 #EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
+http://privado2.dyndns.org/files/f1clasificacion.mp4
 
-
-
-#EXTINF:-1 tvg-id="FightBox HD" tvg-name="FightBox HD" tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="EXTRANJEROS",FightBox HD
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
-
-#EXTINF:-1 tvg-id="FightKlub HD" tvg-name="FightKlub HD" tvg-logo="https://tvprofil.com/img/kanali-logo/Fight_Klub_HD_PL_logo.png" group-title="EXTRANJEROS",FightKlub HD
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=b73da828421018c98905ed05934b77ea35aa1b29
-
-
-#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="Polsat Sport Fight" tvg-logo="https://www.polsatbox.pl/img/homepage/logo/big/polsat-sport-fight-hd.jpg" group-title="EXTRANJEROS",Polsat Sport Fight
-#EXTVLCOPT:network-caching=1000
-http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", MotoGP SPRINT GP de la Solidaridad
-#EXTVLCOPT:network-caching=1000
-http://privado2.dyndns.org/files/20241116motogpsprint.mp4
-
-#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", MotoGP CARRERA GP de la Solidaridad
+#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Carrera GP F1 Las Vegas (23-11-2024)
 #EXTVLCOPT:network-caching=1000 
-http://privado2.dyndns.org/files/20241117motogpcarrera.mp4
+http://privado2.dyndns.org/files/f1carrera.mp4
 
 #EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 3
 #EXTVLCOPT:network-caching=1000 
