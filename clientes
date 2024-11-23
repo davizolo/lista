@@ -26,13 +26,14 @@ acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="La Liga",DAZN LALIGA
-acestream://110d441ddc9713a7452588770d2bc85504672f47
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="La Liga",DAZN LALIGA (opcion 2)
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="La Liga",DAZN LALIGA (opcion 3)
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2.png" group-title="La Liga",DAZN LALIGA 2
