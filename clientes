@@ -152,15 +152,16 @@ acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Motor",DAZN F1
-acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Motor",DAZN F1 (opcion 2)
-acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Motor",DAZN F1 (opcion 3)
 acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Motor",DAZN F1 (Multicamara)
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="Motor",DAZN F1 (opcion 4)
 acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 
 
