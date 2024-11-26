@@ -2,15 +2,13 @@
 
 #EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-name="M+ Copa del Rey" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ Copa del Rey
 #EXTVLCOPT:network-caching=1000  
-http://127.0.0.1:6878/ace/getstream?id=307b6e84ca9620b3f7a13af143c9e4019752756a
+http://127.0.0.1:6878/ace/getstream?id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 
 #EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-name="M+ Copa del Rey" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ Copa del Rey (Opcion 2)
 #EXTVLCOPT:network-caching=1000  
-http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 
-#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-name="M+ Copa del Rey" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ Copa del Rey (Opcion 3)
-#EXTVLCOPT:network-caching=1000  
-http://127.0.0.1:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="La Liga",M+ LALIGA TV
 #EXTVLCOPT:network-caching=1000  
