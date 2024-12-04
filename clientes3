@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="http://tvprivada.dyndns.org"
+
 
 #EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-name="M+ Copa del Rey" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png" group-title="La Liga",M+ Copa del Rey
 acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
