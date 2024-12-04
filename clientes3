@@ -194,3 +194,26 @@ acestream://756aa727f132136b43e1937affcc69cbe40fccad
 
 
 
+
+
+#EXTINF:-1 tvg-id="DIFERIDO 1" tvg-name="DIFERIDO 1" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", F1 Sprint Catar (30-11-2024)
+#EXTVLCOPT:network-caching=1000
+http://privado2.dyndns.org/files/f1sprintcatar.mp4
+
+#EXTINF:-1 tvg-id="DIFERIDO 2" tvg-name="DIFERIDO 2" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", F1 Clasificacion Catar (30-11-2024)
+#EXTVLCOPT:network-caching=1000 
+http://privado2.dyndns.org/files/f1clasificacioncatar.mp4
+
+#EXTINF:-1 tvg-id="DIFERIDO 3" tvg-name="DIFERIDO 3" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", F1 Carrera Catar (01-12-2024)
+#EXTVLCOPT:network-caching=1000 
+http://privado2.dyndns.org/files/f1carreracatar.mp4
+
+#EXTINF:-1 tvg-id="DIFERIDO 4" tvg-name="DIFERIDO 4" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 4
+#EXTVLCOPT:network-caching=1000
+http://privado2.dyndns.org/files/diferido4.mp4
+
+#EXTINF:-1 tvg-id="DIFERIDO 5" tvg-name="DIFERIDO 5" tvg-logo="http://privado2.dyndns.org/red.jpg" group-title="DIFERIDOS", Diferido 5
+#EXTVLCOPT:network-caching=1000
+http://privado2.dyndns.org/files/diferido5.mp4
+
+
