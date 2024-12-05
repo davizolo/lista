@@ -1,8 +1,6 @@
 #EXTM3U 
-
-
-#EXTINF:-1 tvg-id="NULL" tvg-name="Null" tvg-logo="https://img.freepik.com/vector-gratis/vector-degradado-logotipo-colorido-pajaro_343694-1365.jpg" group-title="Null", 
+#EXTINF:-1 tvg-id="1" tvg-name="1" tvg-logo="http://pr.red.jpg" group-title="1", 1
 #EXTVLCOPT:network-caching=1000
-http://null.mp4
+http://p.eer.mp4
 
 
