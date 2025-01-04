@@ -1,6 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="1" tvg-name="1" tvg-logo="http://pr.red.jpg" group-title="1", 1
 #EXTVLCOPT:network-caching=1000
-http://p.eer.mp4
+http://privado2.dyndns.org/files/2025-01-04 20-29-32.mp4
+
 
 
