@@ -3,4 +3,9 @@
 
 rtmp://privado.dyndns.org:1935/live/1234
 
+
+#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://privadd.jpg" group-title="Directos", canal 2
+
+rtmp://privado2.dyndns.org:1935/live/1234
+
 #EXTVLCOPT:network-caching=1000
