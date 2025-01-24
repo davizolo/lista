@@ -1,12 +1,17 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="Canal 1" tvg-name="Canal 1" tvg-logo="http://privadd.jpg" group-title="Directos", canal 1
 #EXTVLCOPT:network-caching=1000
-privado.dyndns.org:1935/live/1234
+rtmp://privado.dyndns.org:1935/live/1234
 
 
 #EXTM3U 
 #EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://privadd.jpg" group-title="Directos", canal 2
 #EXTVLCOPT:network-caching=1000
+http://privado.dyndns.org:1935/live/1234
+
+
+
+#EXTM3U 
+#EXTINF:-1 tvg-id="Canal 3" tvg-name="Canal 3" tvg-logo="http://privadd.jpg" group-title="Directos", canal 3
+#EXTVLCOPT:network-caching=1000
 privado.dyndns.org:1935/live/1234
-
-
