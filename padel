@@ -2,4 +2,4 @@
 
 #EXTINF:-1 tvg-id="padel" tvg-name="padel" tvg-logo="https://w7.pngwing.com/pngs/1009/538/png-transparent-la-1-television-la-2-rtve-audiencia-others-television-blue-angle.png" group-title="TDT",Padel
 #EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/717209/geoBlockPadelPremierPadelMajor2025QatarQuarterFinalsMainCourtPriM/master_20250417_6000.m3u8
+https://rbmn-live.akamaized.net/hls/live/717209/geoBlockPadelPremierPadelMajor2025QatarQuarterFinalsMainCourtPriM/master.m3u8
