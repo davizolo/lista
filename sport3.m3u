@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="sport3" tvg-name="Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Esport3_logo.png" group-title="Deportes",Sport3
+https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/bitrate_7.m3u8|User-Agent=Mozilla/5.0
